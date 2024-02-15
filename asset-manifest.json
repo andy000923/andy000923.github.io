@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef59a268.css",
-    "main.js": "/static/js/main.3fb73b7b.js",
+    "main.css": "/static/css/main.cf94aff8.css",
+    "main.js": "/static/js/main.d3058eea.js",
     "static/media/Value1on.svg": "/static/media/Value1on.1f677182e78f13a76798529cdb2dacc9.svg",
     "static/media/Value5on.svg": "/static/media/Value5on.7f2687dab6f47bd289d0dcd61a2b1742.svg",
     "static/media/leewonsuk.svg": "/static/media/leewonsuk.f7b905f7bb6e655533a7ab7febf72c43.svg",
@@ -13,11 +13,13 @@
     "static/media/Value2.svg": "/static/media/Value2.6c17a2de9733c63e7332a36dff83e80c.svg",
     "static/media/KREN_logo.svg": "/static/media/KREN_logo.5cd6bb1f3ae7c0e5272073e7a1212de9.svg",
     "index.html": "/index.html",
-    "main.ef59a268.css.map": "/static/css/main.ef59a268.css.map",
-    "main.3fb73b7b.js.map": "/static/js/main.3fb73b7b.js.map"
+    "static/media/icon_menu.svg": "/static/media/icon_menu.a0fb3bb6f42235bb047593c19b9e2a4d.svg",
+    "static/media/icon_search.svg": "/static/media/icon_search.eb4af31324c5c28d3ef121e96e400fc3.svg",
+    "main.cf94aff8.css.map": "/static/css/main.cf94aff8.css.map",
+    "main.d3058eea.js.map": "/static/js/main.d3058eea.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef59a268.css",
-    "static/js/main.3fb73b7b.js"
+    "static/css/main.cf94aff8.css",
+    "static/js/main.d3058eea.js"
   ]
 }
