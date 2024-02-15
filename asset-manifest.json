@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.817e2e88.css",
-    "main.js": "/static/js/main.e6f4413d.js",
+    "main.css": "/static/css/main.ef59a268.css",
+    "main.js": "/static/js/main.3fb73b7b.js",
+    "static/media/Value1on.svg": "/static/media/Value1on.1f677182e78f13a76798529cdb2dacc9.svg",
+    "static/media/Value5on.svg": "/static/media/Value5on.7f2687dab6f47bd289d0dcd61a2b1742.svg",
     "static/media/leewonsuk.svg": "/static/media/leewonsuk.f7b905f7bb6e655533a7ab7febf72c43.svg",
     "static/media/kimhongki.svg": "/static/media/kimhongki.3fe8c3124d584f2e4c3ae64b746145b5.svg",
     "static/media/Value4.svg": "/static/media/Value4.7211506f9d15e6afc88001e7a0424f36.svg",
@@ -11,11 +13,11 @@
     "static/media/Value2.svg": "/static/media/Value2.6c17a2de9733c63e7332a36dff83e80c.svg",
     "static/media/KREN_logo.svg": "/static/media/KREN_logo.5cd6bb1f3ae7c0e5272073e7a1212de9.svg",
     "index.html": "/index.html",
-    "main.817e2e88.css.map": "/static/css/main.817e2e88.css.map",
-    "main.e6f4413d.js.map": "/static/js/main.e6f4413d.js.map"
+    "main.ef59a268.css.map": "/static/css/main.ef59a268.css.map",
+    "main.3fb73b7b.js.map": "/static/js/main.3fb73b7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.817e2e88.css",
-    "static/js/main.e6f4413d.js"
+    "static/css/main.ef59a268.css",
+    "static/js/main.3fb73b7b.js"
   ]
 }
