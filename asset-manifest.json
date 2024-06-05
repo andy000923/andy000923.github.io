@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed4ca15d.css",
+    "main.js": "/static/js/main.8afb1590.js",
+    "static/media/슬라이드3_5단계.gif": "/static/media/슬라이드3_5단계.4c231353810287a40c68.gif",
+    "static/media/슬라이드3_7단계.gif": "/static/media/슬라이드3_7단계.4f4f04b9ed3ed99d27af.gif",
+    "static/media/슬라이드3_2단계.gif": "/static/media/슬라이드3_2단계.ef25b9afd649b92a9c7a.gif",
+    "static/media/슬라이드3_4단계.gif": "/static/media/슬라이드3_4단계.7ccd3542083eb581f7d5.gif",
+    "static/media/슬라이드3_6단계.gif": "/static/media/슬라이드3_6단계.eccda025663cc062d1ad.gif",
+    "static/media/슬라이드3_3단계.gif": "/static/media/슬라이드3_3단계.da5dfc386750fe536c0a.gif",
+    "static/media/슬라이드3_1단계.gif": "/static/media/슬라이드3_1단계.367d5a24d35e34e88a4d.gif",
+    "static/media/슬라이드3_8단계.png": "/static/media/슬라이드3_8단계.fd38a1cb46dacfc4f37f.png",
+    "static/media/aia_logo.png": "/static/media/aia_logo.07747f4732954ae060f0.png",
+    "static/media/icon_logo.svg": "/static/media/icon_logo.de2a0a9716f472e5e72f8d8e835913bc.svg",
+    "static/media/slide3_step5_1.svg": "/static/media/slide3_step5_1.345349df093bc961da7c49e4817aba2b.svg",
+    "static/media/icon_help.svg": "/static/media/icon_help.49849d7d4717b5ebbb8fada8f43de447.svg",
+    "index.html": "/index.html",
+    "static/media/slide3_step5_2.svg": "/static/media/slide3_step5_2.79a7195f20597e0f09c6b853f7c46301.svg",
+    "main.ed4ca15d.css.map": "/static/css/main.ed4ca15d.css.map",
+    "main.8afb1590.js.map": "/static/js/main.8afb1590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed4ca15d.css",
+    "static/js/main.8afb1590.js"
+  ]
+}
